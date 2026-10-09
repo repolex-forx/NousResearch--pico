@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/NousResearch/pico/commit/281b3f208cc3e8769b5d43cf520ccc04dc8b71cb",
+  "@type": "git:Commit",
+  "git:hexsha": "281b3f208cc3e8769b5d43cf520ccc04dc8b71cb",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/NousResearch/pico"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/281b3f208cc3e8769b5d43cf520ccc04dc8b71cb.nq.gz",
+      "repolex:graphFileSize": 57099
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 217796
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 412
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-09T13:20:42.919769+00:00",
+  "repolex:parserVersion": "0.1.10"
+}

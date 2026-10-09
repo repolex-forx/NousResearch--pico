@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/NousResearch/pico",
+  "@type": "gh:Repository",
+  "gh:name": "pico",
+  "gh:owner": "NousResearch",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/NousResearch/pico/commit/281b3f208cc3e8769b5d43cf520ccc04dc8b71cb",
+      "git:hexsha": "281b3f208cc3e8769b5d43cf520ccc04dc8b71cb",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
